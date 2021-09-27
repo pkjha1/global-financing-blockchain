@@ -1,4 +1,4 @@
-*Read this in other languages: [日本語](README-ja.md)* 
+
 
 # Global financing with blockchain
 
@@ -63,9 +63,6 @@ You will need to follow the requirements for the [IBM Blockchain Platform Extens
 
 Clone this repository in a folder your choice:
 
-```
-git clone https://github.com/IBM/global-financing-blockchain.git
-```
 
 
 ## 2. Use the VS Code extension to set up a smart contract on a basic Fabric network
