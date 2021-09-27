@@ -13,12 +13,6 @@ This use case addresses dispute resolution and can be applied across industry ve
 
 The code pattern demonstrates how a Node.js smart contract can be packaged using the IBM Blockchain Platform Extension for VS Code. Then, using the extension, you can set up a local instance of the Hyperledger Fabric network, on which you can install and instantiate the contract. The Node.js web application can interact with the network using the 'fabric-network' sdk.
 
-When you have completed this code pattern, you will understand how to:
-
-* Develop a Node.js smart contract
-* Package and deploy the smart contract to a local instance of Hyperledger Fabric using IBM Blockchain Platform Extension for VS Code
-* Develop a Node.js blockchain web application to interact with the deployed Fabric network
-
 
 # Architecture flow
 
@@ -26,7 +20,7 @@ When you have completed this code pattern, you will understand how to:
   <img src="docs/doc-images/arch-flow.png">
 </p>
 
-The developer uses the IBM Blockchain Platform Extension for VS Code to:
+The IBM Blockchain Platform Extension for VS Code is to:
 
 1. Package a smart contract.
 1. Launch a local Hyperledger Fabric Network.
@@ -191,11 +185,6 @@ This application can be expanded in a couple of ways:
 * Create a wallet for every member and use the member's wallet to interact with the application.
 * Update the application to interact through the IBM Blockchain Platform starter plan on IBM Cloud.
 
-
-## Links
-* [Hyperledger Fabric Docs](http://hyperledger-fabric.readthedocs.io/en/latest/)
-* [Zero to Blockchain](https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html?Open)
-* [IBM Code Patterns for Blockchain](https://developer.ibm.com/patterns/category/blockchain/)
 
 ## License
 This code pattern is licensed under the Apache Software License, Version 2. Separate third-party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
